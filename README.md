@@ -1,4 +1,4 @@
-### Hi, I'm Átila 👋
+### Hi, I'm Átila Uebel
 
 Software developer on the **Live team at [Mconf](https://github.com/mconf)**, where I work on the core of the videoconferencing platform behind Elos and ConferênciaWeb (RNP), used by educational institutions across Brazil. The platform is built on **[BigBlueButton](https://github.com/bigbluebutton/bigbluebutton)**, the open-source web conferencing system, and Mconf is one of its core contributors.
 
@@ -6,11 +6,11 @@ Since 2023 I've been contributing to BigBlueButton upstream: building features, 
 
 I'm also an MSc student in Computer Science at UFRGS, focusing on **High-Performance Computing**.
 
-#### 🛠️ Stack
+#### Stack
 
 React · TypeScript · JavaScript · Node.js · CSS · Docker · Linux · Git · C · CUDA
 
-#### 🔵 Selected BigBlueButton contributions
+#### Selected BigBlueButton contributions
 
 - **Pre-join setup screen**: configure audio and video before entering the session ([#25774](https://github.com/bigbluebutton/bigbluebutton/pull/25774))
 - **Mobile layout overhaul**: paginated webcams, compact bars and responsive dialogs ([#25340](https://github.com/bigbluebutton/bigbluebutton/pull/25340))
@@ -20,8 +20,8 @@ React · TypeScript · JavaScript · Node.js · CSS · Docker · Linux · Git ·
 - **[BBB Mobile SDK](https://github.com/mconf/bbb-mobile-sdk)**: 45 merged PRs on Mconf's open-source mobile client for BigBlueButton (Expo / React Native)
 - **[Custom Feedback](https://github.com/bigbluebutton/custom-feedback)**: 8 merged PRs on the customizable feedback form (Vite migration, deploy-time form definition, feedback capture on page leave)
 
-➡️ [All my merged PRs in BigBlueButton](https://github.com/bigbluebutton/bigbluebutton/pulls?q=is%3Apr+author%3AAtilaU19+is%3Amerged)
+[All my merged PRs in BigBlueButton](https://github.com/bigbluebutton/bigbluebutton/pulls?q=is%3Apr+author%3AAtilaU19+is%3Amerged)
 
-#### 📫 Contact
+#### Contact
 
 [LinkedIn](https://www.linkedin.com/in/atila-uebel) · atilauebel2000@gmail.com
